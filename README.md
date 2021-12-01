@@ -1,6 +1,6 @@
   ### Olá! Eu sou Gabriel Fabricio !
 
-- 🔨 Atualmente trabalho com assistência técnica de refrigeradores
+- ⚙️ Atualmente trabalho com assistência técnica de refrigeradores
 - 📚 Cursando Sistemas de Informação - CEFET-RJ |  2° Período
 
 ##
@@ -11,7 +11,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfabrici0&layout=compact&langs_count=7&theme=gotham&custom_title=Principais%20Linguagens&card_width=250em&hide_border=none&bg_color=0D1117&icon_color=FFFFFF&text_color=FFFFFF&title_color=00C9FF"/>
 </div>
   
-  ### 📖 Tecnologias que estou estudando  
+  ### 💻 Tecnologias que estou estudando  
  
 </div>
 <div style="display: inline_block"><br>
