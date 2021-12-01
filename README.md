@@ -11,7 +11,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfabrici0&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  ## Tecnologias que estou estudando 📖 
+  ### Tecnologias que estou estudando 📖 
  
 </div>
 <div style="display: inline_block"><br>
