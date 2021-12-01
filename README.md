@@ -1,7 +1,6 @@
   ### Olá! Eu sou Gabriel Fabricio !
 
 - 🔨 Atualmente trabalho com assistência técnica de refrigeradores
-- 📖 Estudando Html5, CSS3 e Javascript
 - 📚 Cursando Sistemas de Informação - CEFET-RJ | 2° Período
 - 👯 Contate-me no Email: Gabriel.Fabricio_contato@hotmail.com
 
