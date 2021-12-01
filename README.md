@@ -3,6 +3,8 @@
 - 🔨 Atualmente trabalho com assistência técnica de refrigeradores
 - 📚 Cursando Sistemas de Informação - CEFET-RJ |  2° Período
 
+##
+
 <div align="center">
   <a href="https://github.com/Gfabrici0">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gfabrici0&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20GitHub%20de%20Gabriel&hide_border=none&bg_color=0D1117&icon_color=00C9FF&text_color=FFFFFF&title_color=00C9FF"> 
@@ -16,9 +18,16 @@
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> 
 
-![Snake animation](https://github.com/Gfabrici0/Gfabrici0/blob/output/github-contribution-grid-snake.svg)
+  ##
+  
+<div>
+  <a href="maito:Gabriel.Fabricio_contato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gafabrici0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">     </a>
 </div>
+  
+![Snake animation](https://github.com/Gfabrici0/Gfabrici0/blob/output/github-contribution-grid-snake.svg)
 
 
 
