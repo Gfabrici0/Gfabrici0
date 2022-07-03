@@ -1,6 +1,6 @@
   ### Olá! Eu sou Gabriel Fabricio !
 
-- 🖥️ Atualmente trabalho como estagiário em TI
+- 🖥️ Atualmente trabalho como estagiário em TI na 3 corações
 - 📚 Cursando Sistemas de Informação - CEFET-RJ |  2° Período
 
 ##
