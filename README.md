@@ -1,6 +1,6 @@
   ### Olá! Eu sou Gabriel Fabricio !
 
-- 📚 Cursando Sistemas de Informação - CEFET-RJ |  3° Período
+- 📚 Cursando Sistemas de Informação - CEFET-RJ |  4° Período
 
 ##
 
